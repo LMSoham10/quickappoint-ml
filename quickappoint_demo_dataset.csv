@@ -1,0 +1,1501 @@
+doctor_id,doctor_specialization,type_of_patient,common_problem,hist_avg_X1,recent_pace_X2,position_X3,visit_type_X4,day_of_week_X5,actual_duration_mins
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,9.25,7,Follow-Up,Friday,8.6
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,14.0,16.56,24,New,Tuesday,14.3
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,15.35,22,Follow-Up,Tuesday,17.1
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,19.66,15,New,Saturday,16.4
+DOC_301,Pediatrics,Pediatric,Prescription Refill,10.0,9.18,7,New,Wednesday,8.6
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,14.25,8,New,Friday,14.4
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,16.16,22,New,Saturday,15.1
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,24.81,15,New,Tuesday,22.5
+DOC_102,General Medicine,Chronic,Joint/Back Pain,13.5,13.85,15,Follow-Up,Monday,13.4
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,9.85,3,New,Wednesday,8.0
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,18.45,8,New,Monday,15.6
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,18.1,3,Follow-Up,Monday,15.6
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,20.5,19.89,7,New,Saturday,18.1
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,9.5,5,New,Thursday,9.6
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,23.5,21.49,19,New,Wednesday,23.1
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,16.92,23,Follow-Up,Wednesday,15.9
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.17,13,Follow-Up,Thursday,6.9
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,8.59,24,New,Thursday,8.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,9.98,12,Follow-Up,Thursday,7.9
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,5.18,22,Follow-Up,Tuesday,6.8
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,12.31,6,New,Thursday,13.3
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,23.17,2,New,Thursday,20.7
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,19.18,6,New,Wednesday,16.0
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,8.28,7,Follow-Up,Thursday,9.4
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,9.76,18,Follow-Up,Wednesday,8.8
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,10.49,2,Follow-Up,Monday,8.6
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,11.5,14.56,3,New,Monday,11.8
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,6.71,6,Follow-Up,Thursday,6.3
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,11.43,18,Follow-Up,Friday,14.6
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,12.9,21,New,Saturday,13.6
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,16.02,19,Follow-Up,Wednesday,15.7
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,11.5,12.43,1,Follow-Up,Friday,9.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,17.94,3,Follow-Up,Thursday,12.9
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,35.32,14,Follow-Up,Monday,27.2
+DOC_201,Cardiology,Chronic,Joint/Back Pain,21.5,20.58,23,New,Friday,18.1
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,10.5,10.98,24,Follow-Up,Saturday,11.2
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,13.27,8,Follow-Up,Monday,9.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,18.38,24,Follow-Up,Monday,17.4
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,17.1,8,Follow-Up,Monday,14.3
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,16.0,17.38,22,New,Tuesday,16.9
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,13.77,5,New,Wednesday,11.5
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,18.5,20.9,15,New,Thursday,19.5
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,14.39,19,Follow-Up,Saturday,12.1
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,23.27,12,New,Monday,18.4
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,13.0,13.44,16,New,Saturday,13.4
+DOC_401,Orthopedics,Geriatric,Chest Pain / ECG,23.0,24.76,12,Follow-Up,Wednesday,23.0
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,15.09,5,New,Thursday,15.9
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,16.6,10,Follow-Up,Tuesday,14.8
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.72,1,Follow-Up,Tuesday,11.4
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,9.17,18,Follow-Up,Thursday,11.2
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,7.07,3,Follow-Up,Thursday,4.6
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,20.78,18,New,Wednesday,19.6
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,16.7,2,Follow-Up,Tuesday,18.0
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,28.4,21,New,Monday,22.8
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,8.57,17,Follow-Up,Wednesday,8.0
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,21.02,9,Follow-Up,Wednesday,19.0
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,7.04,19,New,Wednesday,7.5
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,21.0,23.5,20,New,Thursday,20.6
+DOC_301,Pediatrics,Chronic,Prescription Refill,10.0,12.4,10,New,Friday,11.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,22.74,12,Follow-Up,Tuesday,21.4
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,8.83,2,Follow-Up,Tuesday,7.0
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,8.5,6,Follow-Up,Thursday,5.9
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,18.34,19,Follow-Up,Tuesday,18.9
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,16.5,18.94,9,New,Friday,16.4
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,16.34,17,Follow-Up,Thursday,14.2
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,21.75,16,New,Friday,21.5
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,17.41,18,Follow-Up,Thursday,17.1
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,14.01,11,New,Monday,11.8
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,21.75,4,New,Thursday,20.7
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,15.08,17,Follow-Up,Saturday,12.2
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,18.49,14,New,Friday,19.0
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,19.19,18,New,Saturday,17.7
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,9.1,15,Follow-Up,Tuesday,7.8
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,28.0,28.34,3,New,Monday,27.2
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,19.98,5,Follow-Up,Friday,18.0
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,16.16,9,New,Saturday,15.6
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,26.42,8,New,Monday,20.7
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,15.48,18,Follow-Up,Wednesday,13.6
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,15.76,16,Follow-Up,Monday,15.9
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,16.4,6,Follow-Up,Tuesday,14.0
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,11.76,20,New,Tuesday,12.8
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,21.36,24,Follow-Up,Tuesday,19.2
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,15.21,2,Follow-Up,Friday,12.4
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,18.62,8,New,Thursday,17.0
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,5.2,19,Follow-Up,Tuesday,6.0
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,19.32,12,New,Monday,16.9
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,12.95,15,Follow-Up,Monday,12.5
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,16.59,14,New,Saturday,13.6
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,17.5,19.69,7,New,Wednesday,17.6
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,12.04,15,New,Wednesday,13.6
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,10.56,12,Follow-Up,Saturday,9.7
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,22.89,15,Follow-Up,Thursday,17.7
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,13.03,20,New,Saturday,9.6
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,12.76,21,New,Saturday,14.2
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,15.6,23,New,Monday,17.1
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,10.5,12.62,2,Follow-Up,Monday,10.5
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,18.15,22,New,Tuesday,17.7
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,12.97,5,Follow-Up,Saturday,10.0
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,10.39,24,New,Tuesday,13.1
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.67,15,Follow-Up,Wednesday,4.6
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,12.67,12,Follow-Up,Thursday,11.7
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,17.72,8,New,Friday,13.6
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,15.11,5,Follow-Up,Friday,15.4
+DOC_101,General Medicine,Chronic,Prescription Refill,4.5,5.54,19,Follow-Up,Saturday,6.2
+DOC_101,General Medicine,Geriatric,Prescription Refill,9.0,10.12,15,New,Monday,10.8
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,20.86,8,Follow-Up,Wednesday,18.2
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,24.78,7,Follow-Up,Saturday,21.7
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,10.36,10,Follow-Up,Friday,11.1
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,17.34,24,Follow-Up,Thursday,15.8
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,15.5,16.68,19,New,Wednesday,19.5
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,19.9,10,Follow-Up,Saturday,17.2
+DOC_102,General Medicine,Chronic,Joint/Back Pain,13.5,16.55,18,Follow-Up,Saturday,12.9
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,17.07,5,Follow-Up,Thursday,13.1
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,9.18,14,Follow-Up,Friday,9.0
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,19.42,14,New,Tuesday,18.9
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,24.24,9,New,Friday,24.6
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,8.53,11,New,Thursday,5.8
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,15.66,19,New,Wednesday,12.7
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,16.92,17,New,Monday,13.3
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,10.24,20,Follow-Up,Monday,9.3
+DOC_301,Pediatrics,Pediatric,Prescription Refill,10.0,10.21,23,New,Friday,10.2
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,21.0,20.32,18,Follow-Up,Wednesday,21.5
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,18.79,18,Follow-Up,Monday,16.4
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,15.51,19,New,Tuesday,14.9
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,13.77,8,Follow-Up,Friday,13.4
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,25.3,3,New,Friday,19.8
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,14.45,24,Follow-Up,Saturday,12.7
+DOC_102,General Medicine,Adult,Prescription Refill,9.5,8.76,16,New,Wednesday,8.3
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,10.83,20,Follow-Up,Friday,10.9
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,23.52,9,Follow-Up,Saturday,21.5
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,13.26,10,Follow-Up,Monday,11.5
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,7.08,13,New,Tuesday,7.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,6.76,13,Follow-Up,Tuesday,7.8
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,18.04,5,New,Monday,15.3
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,22.5,25.71,6,New,Friday,22.7
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,18.24,14,Follow-Up,Friday,17.5
+DOC_301,Pediatrics,Chronic,Prescription Refill,10.0,9.48,19,New,Thursday,8.5
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,11.0,14.08,22,Follow-Up,Saturday,11.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,16.05,11,New,Thursday,13.3
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.9,11,Follow-Up,Friday,7.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,10.52,12,New,Thursday,10.5
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,7.93,15,Follow-Up,Monday,7.7
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,28.17,22,Follow-Up,Friday,27.3
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,8.0,9.61,23,Follow-Up,Monday,10.8
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,16.13,16,Follow-Up,Wednesday,18.5
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,13.0,15.85,14,Follow-Up,Monday,13.4
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,25.63,11,New,Friday,23.8
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,15.66,1,New,Tuesday,12.9
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,13.0,11.16,2,New,Tuesday,11.3
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,23.77,17,New,Saturday,22.5
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,17.47,7,Follow-Up,Tuesday,13.5
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,18.13,21,Follow-Up,Monday,14.8
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,5.24,5,Follow-Up,Thursday,4.5
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,18.5,17.44,4,New,Thursday,15.6
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,15.5,14.61,14,Follow-Up,Friday,14.1
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,10.5,11.01,15,Follow-Up,Saturday,10.1
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,8.0,8.45,10,Follow-Up,Wednesday,8.4
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,17.71,15,Follow-Up,Friday,18.7
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,9.55,9,Follow-Up,Wednesday,10.7
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,18.69,5,New,Wednesday,18.5
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,19.95,5,New,Thursday,17.3
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,18.3,13,Follow-Up,Friday,16.3
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,21.53,16,Follow-Up,Wednesday,19.9
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,10.49,11,Follow-Up,Friday,10.3
+DOC_101,General Medicine,Adult,Routine Fever/Cold,10.5,12.05,21,New,Wednesday,12.1
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,19.24,17,New,Saturday,16.4
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,23.27,19,Follow-Up,Saturday,20.2
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,13.9,4,Follow-Up,Saturday,12.7
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.03,22,New,Thursday,11.8
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,18.5,21.27,12,Follow-Up,Friday,18.5
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,21.5,21.06,1,New,Wednesday,21.2
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,13.27,4,New,Friday,12.0
+DOC_401,Orthopedics,Chronic,Chest Pain / ECG,21.0,24.34,2,Follow-Up,Thursday,19.6
+DOC_201,Cardiology,Chronic,Joint/Back Pain,21.5,26.1,21,New,Friday,22.2
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,16.0,15.6,3,Follow-Up,Friday,15.9
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,8.37,18,Follow-Up,Thursday,7.1
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,21.0,19.14,21,New,Friday,21.9
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,23.5,21.72,3,New,Thursday,17.8
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.83,4,Follow-Up,Thursday,3.8
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,13.34,8,Follow-Up,Monday,11.1
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,15.5,19.08,1,New,Friday,15.6
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,17.63,15,New,Saturday,16.2
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,13.0,13.74,1,Follow-Up,Tuesday,11.7
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,13.46,6,New,Tuesday,11.2
+DOC_102,General Medicine,Geriatric,Routine Fever/Cold,15.0,18.46,17,New,Thursday,18.1
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,11.76,15,Follow-Up,Thursday,12.5
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,18.43,3,Follow-Up,Saturday,16.9
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,15.0,19,New,Friday,14.1
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,21.98,12,Follow-Up,Wednesday,18.8
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,11.64,22,New,Wednesday,14.2
+DOC_101,General Medicine,Geriatric,Prescription Refill,6.5,6.63,24,Follow-Up,Tuesday,6.3
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,10.62,4,Follow-Up,Monday,8.3
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,11.68,6,Follow-Up,Thursday,8.8
+DOC_102,General Medicine,Pediatric,Prescription Refill,9.5,10.36,16,New,Thursday,8.3
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,11.41,5,Follow-Up,Friday,10.5
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,11.27,17,Follow-Up,Saturday,10.6
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.32,8,Follow-Up,Monday,4.8
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,21.0,23.47,10,New,Tuesday,19.9
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,10.46,1,Follow-Up,Thursday,8.2
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,32.33,17,Follow-Up,Monday,24.9
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,15.33,20,New,Friday,15.8
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,13.7,5,New,Saturday,9.9
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,17.43,20,New,Tuesday,15.6
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,5.44,6,Follow-Up,Thursday,6.2
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,14.2,21,New,Tuesday,14.7
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,13.5,15.16,11,Follow-Up,Tuesday,15.9
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.53,12,Follow-Up,Monday,11.2
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,18.12,2,New,Thursday,14.6
+DOC_101,General Medicine,Chronic,Prescription Refill,4.5,5.43,21,Follow-Up,Monday,6.7
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,23.93,2,Follow-Up,Saturday,19.1
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,19.26,22,Follow-Up,Saturday,18.4
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,19.37,1,New,Friday,16.4
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,14.52,8,New,Wednesday,12.0
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,14.55,12,Follow-Up,Friday,17.6
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,21.02,14,Follow-Up,Saturday,18.5
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.4,13,New,Friday,10.8
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,15.57,14,New,Thursday,15.6
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,15.33,4,New,Friday,14.5
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,20.81,7,New,Friday,19.0
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,13.11,12,Follow-Up,Monday,13.6
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,24.27,21,Follow-Up,Saturday,19.2
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,7.61,5,Follow-Up,Monday,6.1
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,16.0,14.56,4,Follow-Up,Wednesday,12.8
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,9.21,17,Follow-Up,Friday,9.8
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,19.0,18.1,10,New,Wednesday,16.9
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,6.16,3,Follow-Up,Tuesday,5.9
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,12.93,14,New,Thursday,14.3
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,20.57,9,Follow-Up,Wednesday,21.4
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,21.24,2,Follow-Up,Thursday,18.3
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,18.0,20.12,22,New,Wednesday,18.0
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,9.3,20,Follow-Up,Saturday,10.7
+DOC_401,Orthopedics,Pediatric,Prescription Refill,12.5,14.41,23,New,Tuesday,13.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,11.06,13,Follow-Up,Saturday,12.0
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,20.0,26.1,18,New,Saturday,22.5
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,11.0,9.87,14,Follow-Up,Tuesday,9.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,11.23,11,New,Monday,8.1
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,16.21,15,Follow-Up,Wednesday,13.6
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,9.52,24,Follow-Up,Saturday,10.2
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,21.0,19.31,3,Follow-Up,Friday,17.3
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,12.02,22,Follow-Up,Monday,13.6
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,10.5,12.93,3,Follow-Up,Thursday,11.2
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,11.23,13,Follow-Up,Thursday,11.9
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,11.48,6,Follow-Up,Friday,12.0
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,24.53,2,Follow-Up,Tuesday,21.4
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,6.9,3,Follow-Up,Monday,5.7
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,17.19,5,Follow-Up,Monday,15.1
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,16.86,5,Follow-Up,Tuesday,12.4
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,25.95,22,New,Friday,22.1
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,23.01,10,New,Friday,20.7
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,11.82,18,Follow-Up,Friday,11.6
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,7.17,20,Follow-Up,Friday,7.8
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,7.05,6,Follow-Up,Friday,7.5
+DOC_102,General Medicine,Chronic,Prescription Refill,9.5,11.97,9,New,Monday,8.2
+DOC_102,General Medicine,Chronic,Joint/Back Pain,13.5,14.15,11,Follow-Up,Thursday,12.8
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,13.22,23,Follow-Up,Thursday,13.9
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,15.82,1,New,Wednesday,14.7
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,29.3,14,Follow-Up,Tuesday,23.6
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,11.48,6,Follow-Up,Tuesday,13.1
+DOC_301,Pediatrics,Chronic,Prescription Refill,7.5,6.74,3,Follow-Up,Tuesday,8.3
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,10.5,9.45,21,Follow-Up,Tuesday,11.4
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,18.5,16.67,2,Follow-Up,Thursday,16.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.36,18,Follow-Up,Tuesday,7.1
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,10.07,3,Follow-Up,Friday,9.6
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,11.0,15.29,21,Follow-Up,Saturday,12.6
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,16.12,22,Follow-Up,Monday,14.2
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,16.01,23,Follow-Up,Wednesday,15.2
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,22.6,22,Follow-Up,Wednesday,22.1
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,12.77,12,Follow-Up,Monday,11.4
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,5.59,2,Follow-Up,Tuesday,7.4
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,17.8,20,New,Monday,16.6
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,19.32,14,Follow-Up,Saturday,17.1
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,20.59,4,Follow-Up,Friday,20.1
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,15.5,15.73,6,Follow-Up,Friday,12.7
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,5.13,14,Follow-Up,Thursday,6.9
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,20.71,24,Follow-Up,Saturday,17.5
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,18.62,12,New,Friday,17.3
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,15.45,23,Follow-Up,Thursday,13.9
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,7.44,22,Follow-Up,Monday,6.1
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,11.0,11.15,15,Follow-Up,Wednesday,10.7
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,18.0,17.71,10,New,Friday,18.2
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,19.03,6,Follow-Up,Friday,17.4
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,10.5,10.94,5,Follow-Up,Friday,9.8
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,21.0,18.27,4,Follow-Up,Tuesday,17.9
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,18.5,17.81,10,New,Thursday,16.0
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,13.98,16,Follow-Up,Tuesday,15.3
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,20.01,18,New,Thursday,17.2
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,7.69,15,Follow-Up,Saturday,8.6
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,22.96,5,Follow-Up,Saturday,17.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,14.17,19,New,Monday,12.9
+DOC_101,General Medicine,Chronic,Prescription Refill,4.5,4.55,2,Follow-Up,Friday,6.2
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,17.4,6,Follow-Up,Tuesday,16.5
+DOC_401,Orthopedics,Chronic,Prescription Refill,10.0,10.15,16,Follow-Up,Tuesday,11.7
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,29.19,10,New,Saturday,22.6
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,17.22,15,Follow-Up,Saturday,18.1
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,19.87,9,Follow-Up,Wednesday,18.3
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,15.6,1,New,Thursday,16.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,16.86,18,Follow-Up,Wednesday,16.2
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,15.45,5,Follow-Up,Thursday,13.2
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,11.27,20,Follow-Up,Tuesday,11.8
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,19.52,1,New,Saturday,14.4
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,22.17,6,New,Saturday,16.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,14.2,2,Follow-Up,Friday,15.0
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,7.32,1,Follow-Up,Wednesday,6.7
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,16.5,17.59,6,Follow-Up,Thursday,16.4
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,14.15,12,Follow-Up,Thursday,14.8
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,11.95,24,New,Thursday,12.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,10.19,15,Follow-Up,Wednesday,9.4
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,6.9,3,Follow-Up,Wednesday,9.5
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,18.0,16.56,15,New,Thursday,16.4
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,19.64,3,New,Friday,17.1
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,23.65,7,Follow-Up,Monday,19.8
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,17.38,6,New,Saturday,16.1
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,11.5,11.04,20,Follow-Up,Saturday,11.3
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.11,9,Follow-Up,Wednesday,6.4
+DOC_401,Orthopedics,Chronic,Prescription Refill,12.5,16.79,19,New,Monday,14.7
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.49,24,New,Monday,12.7
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,14.6,9,New,Saturday,15.2
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,15.5,18.8,12,Follow-Up,Saturday,18.1
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,22.34,5,New,Thursday,19.8
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,7.17,22,New,Thursday,8.9
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,11.31,19,Follow-Up,Friday,12.2
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,12.89,22,Follow-Up,Wednesday,15.1
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,9.46,6,Follow-Up,Saturday,8.6
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,13.74,17,Follow-Up,Friday,13.3
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,25.62,6,New,Friday,20.7
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,20.9,9,New,Saturday,19.1
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.5,7,New,Wednesday,12.1
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,15.73,21,Follow-Up,Friday,15.6
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,17.86,5,Follow-Up,Thursday,17.6
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,10.75,18,Follow-Up,Tuesday,12.0
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,12.08,8,New,Thursday,11.3
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,16.29,10,Follow-Up,Friday,14.8
+DOC_201,Cardiology,Chronic,Prescription Refill,15.0,16.58,20,New,Wednesday,15.9
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,18.5,20.06,12,New,Saturday,20.2
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,8.39,17,Follow-Up,Saturday,10.3
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,8.64,13,Follow-Up,Wednesday,8.8
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,16.0,16.48,3,Follow-Up,Tuesday,16.6
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,18.5,20.87,4,New,Saturday,18.3
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,20.79,24,Follow-Up,Friday,18.9
+DOC_102,General Medicine,Pediatric,Joint/Back Pain,16.0,15.59,11,New,Wednesday,15.7
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,16.49,1,Follow-Up,Saturday,13.6
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,13.11,10,Follow-Up,Wednesday,12.7
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,32.04,5,New,Friday,26.8
+DOC_301,Pediatrics,Chronic,Prescription Refill,7.5,6.83,15,Follow-Up,Friday,7.3
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,11.25,9,Follow-Up,Friday,12.3
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,17.04,19,New,Friday,18.0
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,20.29,7,New,Wednesday,18.5
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.44,17,Follow-Up,Wednesday,12.8
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.0,5,Follow-Up,Wednesday,7.2
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,14.0,15.26,21,New,Wednesday,14.6
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,18.5,16.65,7,New,Wednesday,15.8
+DOC_102,General Medicine,Chronic,Prescription Refill,7.0,6.21,16,Follow-Up,Tuesday,8.4
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,11.0,11.83,1,Follow-Up,Wednesday,12.8
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,5.18,18,Follow-Up,Saturday,4.3
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,18.02,8,New,Monday,15.8
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,15.41,15,Follow-Up,Friday,14.0
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,21.75,22,New,Wednesday,22.4
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,18.84,15,New,Monday,16.8
+DOC_102,General Medicine,Geriatric,Prescription Refill,11.5,11.18,7,New,Saturday,12.2
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,27.95,1,Follow-Up,Monday,19.7
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,7.94,4,Follow-Up,Saturday,6.7
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,23.5,28.95,13,Follow-Up,Tuesday,23.4
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,18.5,17.52,10,New,Tuesday,15.7
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,13.05,8,Follow-Up,Wednesday,12.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,24.68,9,Follow-Up,Monday,24.1
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,12.5,13.4,8,Follow-Up,Thursday,11.6
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,15.5,16.86,20,Follow-Up,Saturday,16.7
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.13,2,Follow-Up,Saturday,8.0
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,10.63,17,Follow-Up,Monday,9.6
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,15.5,20.5,11,New,Monday,16.8
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,16.98,4,Follow-Up,Thursday,13.8
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,11.61,1,Follow-Up,Tuesday,10.1
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,15.0,21,New,Friday,13.1
+DOC_201,Cardiology,Chronic,Prescription Refill,15.0,17.44,20,New,Friday,15.0
+DOC_301,Pediatrics,Chronic,Prescription Refill,10.0,10.4,9,New,Thursday,10.2
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,20.35,18,Follow-Up,Friday,18.0
+DOC_301,Pediatrics,Chronic,Prescription Refill,7.5,9.02,22,Follow-Up,Wednesday,9.8
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,14.31,18,New,Thursday,12.0
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,18.91,1,Follow-Up,Saturday,13.3
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,12.5,14.8,15,Follow-Up,Thursday,11.6
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,16.25,14,New,Thursday,12.5
+DOC_101,General Medicine,Chronic,Joint/Back Pain,13.5,11.7,4,New,Wednesday,11.6
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,15.5,15.67,8,Follow-Up,Monday,14.9
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,17.5,17.92,6,New,Friday,17.7
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,15.24,12,New,Monday,16.3
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,12.37,23,Follow-Up,Monday,9.8
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,20.21,9,Follow-Up,Friday,16.1
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,14.34,23,Follow-Up,Monday,15.8
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,17.21,12,Follow-Up,Monday,13.3
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,20.03,11,New,Thursday,18.3
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,13.0,11.37,15,New,Thursday,13.7
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,22.1,1,New,Saturday,18.0
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,31.37,5,Follow-Up,Saturday,23.8
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,26.31,11,Follow-Up,Friday,23.2
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,15.5,19.13,12,Follow-Up,Thursday,16.2
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,15.33,22,Follow-Up,Saturday,16.3
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,25.3,17,Follow-Up,Tuesday,22.0
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,16.0,18.52,1,Follow-Up,Saturday,15.4
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,7.66,12,Follow-Up,Saturday,6.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.89,3,New,Wednesday,12.2
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,15.59,2,New,Wednesday,10.9
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,12.64,14,Follow-Up,Wednesday,9.9
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,19.62,4,Follow-Up,Tuesday,16.8
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,15.38,9,New,Friday,13.8
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,13.0,19,Follow-Up,Thursday,14.4
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,18.88,20,Follow-Up,Tuesday,17.8
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,9.84,14,New,Saturday,6.9
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,25.27,24,Follow-Up,Friday,25.0
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,7.25,24,Follow-Up,Friday,8.4
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,11.94,22,Follow-Up,Thursday,13.3
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,13.0,15.64,3,New,Thursday,14.2
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,24.77,18,Follow-Up,Tuesday,20.3
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,21.7,16,New,Monday,17.0
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,9.87,10,Follow-Up,Tuesday,12.3
+DOC_102,General Medicine,Geriatric,Prescription Refill,11.5,11.0,22,New,Tuesday,10.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,20.11,19,New,Monday,19.4
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,9.75,6,Follow-Up,Wednesday,9.6
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,8.9,13,New,Monday,9.9
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,11.5,14.41,12,New,Monday,14.3
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,9.42,18,Follow-Up,Thursday,8.2
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,23.54,2,Follow-Up,Saturday,20.6
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,15.25,21,Follow-Up,Wednesday,13.8
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,23.5,32.4,3,Follow-Up,Saturday,25.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,12.94,24,Follow-Up,Tuesday,12.1
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,12.5,14.79,18,Follow-Up,Wednesday,13.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,19.77,12,New,Wednesday,18.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,14.33,24,Follow-Up,Saturday,12.3
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,20.47,1,New,Thursday,15.4
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,28.0,26.89,24,New,Friday,27.1
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,18.08,5,New,Saturday,13.8
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,11.3,17,Follow-Up,Monday,9.8
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,15.47,6,New,Tuesday,12.0
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,17.91,20,New,Saturday,17.2
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,16.69,22,New,Tuesday,14.1
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,17.22,9,Follow-Up,Saturday,17.3
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,28.0,35.45,4,New,Saturday,27.0
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,6.66,7,New,Thursday,7.4
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,18.0,22.5,16,New,Saturday,19.0
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,18.85,21,New,Thursday,14.9
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,14.0,14.96,17,New,Thursday,13.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,18.16,21,New,Monday,14.5
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,18.29,18,New,Friday,15.8
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,15.24,18,New,Tuesday,12.2
+DOC_102,General Medicine,Pediatric,Pediatric Vaccination,8.5,8.49,14,Follow-Up,Wednesday,9.0
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,8.12,1,Follow-Up,Monday,7.6
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,16.34,6,New,Thursday,15.8
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,9.0,10.62,18,Follow-Up,Thursday,9.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,10.99,11,Follow-Up,Friday,8.4
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,9.34,6,Follow-Up,Saturday,7.0
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.37,7,Follow-Up,Tuesday,12.8
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,15.67,12,New,Thursday,19.1
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,16.89,13,Follow-Up,Monday,17.0
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,15.08,7,New,Tuesday,15.4
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,24.68,10,Follow-Up,Friday,20.4
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,9.21,9,Follow-Up,Saturday,7.7
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,22.32,2,New,Friday,20.2
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,15.36,17,Follow-Up,Saturday,14.8
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,12.62,9,Follow-Up,Tuesday,13.0
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,27.04,15,New,Saturday,22.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,10.65,10,Follow-Up,Wednesday,10.3
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,14.04,22,New,Friday,13.8
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.6,5,Follow-Up,Friday,15.6
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,15.32,17,Follow-Up,Monday,14.1
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,22.2,16,New,Tuesday,24.4
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,9.91,16,Follow-Up,Saturday,9.5
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,11.88,11,Follow-Up,Wednesday,11.7
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,12.61,8,New,Tuesday,11.8
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,16.0,18,Follow-Up,Friday,13.1
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,16.5,16.14,10,Follow-Up,Wednesday,14.8
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,21.0,23.37,11,Follow-Up,Thursday,19.2
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,21.0,23.5,17,New,Saturday,20.2
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,5.18,16,Follow-Up,Friday,5.9
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,11.71,7,Follow-Up,Thursday,9.1
+DOC_102,General Medicine,Chronic,Pediatric Vaccination,8.5,10.12,4,Follow-Up,Tuesday,6.6
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,18.16,13,New,Friday,17.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.66,12,Follow-Up,Saturday,4.8
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,12.84,12,Follow-Up,Tuesday,13.0
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.07,6,Follow-Up,Wednesday,10.4
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,19.69,14,Follow-Up,Friday,17.7
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,18.34,24,Follow-Up,Saturday,19.3
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,12.82,5,Follow-Up,Monday,11.9
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,8.82,24,Follow-Up,Wednesday,8.1
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,19.94,8,Follow-Up,Tuesday,18.3
+DOC_201,Cardiology,Chronic,Pediatric Vaccination,14.0,11.93,10,Follow-Up,Wednesday,12.8
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,31.37,20,New,Wednesday,26.5
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,16.62,24,New,Saturday,16.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,11.68,16,New,Wednesday,9.7
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,9.73,11,Follow-Up,Tuesday,7.5
+DOC_201,Cardiology,Chronic,Pediatric Vaccination,14.0,15.45,5,Follow-Up,Thursday,10.5
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,6.83,14,Follow-Up,Saturday,5.7
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,19.63,24,Follow-Up,Tuesday,17.6
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,4.11,22,Follow-Up,Tuesday,4.1
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,17.01,15,New,Tuesday,16.0
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,8.2,13,Follow-Up,Tuesday,7.3
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,16.85,11,Follow-Up,Tuesday,14.7
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,15.18,20,Follow-Up,Thursday,15.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,27.5,21,Follow-Up,Wednesday,23.5
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,4.43,14,Follow-Up,Friday,4.4
+DOC_401,Orthopedics,Chronic,Prescription Refill,10.0,10.71,19,Follow-Up,Tuesday,10.3
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,16.41,20,New,Tuesday,17.8
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,14.6,24,New,Thursday,16.5
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,16.36,17,Follow-Up,Thursday,14.7
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,23.2,18,New,Thursday,22.4
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,24.75,10,New,Saturday,20.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,22.0,1,Follow-Up,Monday,19.3
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,11.22,16,Follow-Up,Friday,10.3
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,15.5,17.92,17,New,Friday,13.1
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,11.0,9.86,7,Follow-Up,Thursday,12.4
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,14.04,8,Follow-Up,Saturday,15.3
+DOC_102,General Medicine,Chronic,Chronic Diabetes Review,15.5,19.35,13,New,Monday,18.3
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.57,22,New,Friday,13.3
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,8.58,12,Follow-Up,Wednesday,8.1
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,24.18,21,Follow-Up,Monday,19.0
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,15.53,20,Follow-Up,Thursday,13.4
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,21.0,25.58,8,New,Tuesday,20.4
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,23.5,28.85,16,Follow-Up,Monday,23.4
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,15.35,14,Follow-Up,Tuesday,12.9
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,10.88,21,Follow-Up,Thursday,11.0
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,7.68,15,Follow-Up,Saturday,8.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,11.86,8,Follow-Up,Saturday,10.3
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,12.15,7,New,Wednesday,11.4
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,23.82,5,New,Saturday,19.8
+DOC_201,Cardiology,Pediatric,Prescription Refill,15.0,14.51,11,New,Wednesday,12.7
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,14.0,13.68,24,Follow-Up,Wednesday,13.2
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,17.3,22,Follow-Up,Thursday,18.8
+DOC_201,Cardiology,Adult,Pediatric Vaccination,16.5,14.61,1,New,Wednesday,16.0
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,8.0,7.57,9,Follow-Up,Thursday,6.5
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,19.98,22,New,Saturday,18.7
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,14.99,3,New,Friday,13.4
+DOC_102,General Medicine,Geriatric,Routine Fever/Cold,12.5,12.12,23,Follow-Up,Thursday,11.6
+DOC_101,General Medicine,Adult,Routine Fever/Cold,10.5,10.73,21,New,Tuesday,11.5
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,19.42,21,New,Saturday,19.3
+DOC_102,General Medicine,Pediatric,Prescription Refill,9.5,8.13,15,New,Thursday,8.2
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,14.0,11.96,20,Follow-Up,Tuesday,13.7
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,28.0,27.85,23,New,Friday,27.2
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.03,19,Follow-Up,Thursday,13.2
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.21,22,Follow-Up,Friday,10.9
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,16.8,23,New,Monday,17.4
+DOC_401,Orthopedics,Pediatric,Prescription Refill,12.5,15.11,22,New,Tuesday,13.6
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,19.34,22,Follow-Up,Monday,18.9
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,12.5,11.54,14,Follow-Up,Wednesday,12.3
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,14.02,6,New,Wednesday,11.0
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,8.55,20,Follow-Up,Friday,11.0
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,14.24,23,Follow-Up,Thursday,16.1
+DOC_201,Cardiology,Adult,Pediatric Vaccination,16.5,17.66,20,New,Wednesday,18.2
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,11.68,4,Follow-Up,Wednesday,10.3
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,24.63,4,New,Saturday,19.7
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,15.6,9,New,Wednesday,14.3
+DOC_102,General Medicine,Chronic,Joint/Back Pain,13.5,13.65,16,Follow-Up,Tuesday,13.7
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,23.07,13,Follow-Up,Saturday,21.2
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,21.28,10,New,Saturday,19.9
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,21.86,3,New,Wednesday,14.9
+DOC_201,Cardiology,Chronic,Joint/Back Pain,21.5,22.5,9,New,Monday,20.7
+DOC_201,Cardiology,Chronic,Joint/Back Pain,21.5,26.79,13,New,Wednesday,22.6
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,19.11,18,Follow-Up,Monday,17.0
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,14.53,13,Follow-Up,Tuesday,14.2
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,14.65,23,New,Tuesday,13.1
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,32.13,2,Follow-Up,Monday,24.1
+DOC_102,General Medicine,Chronic,Pediatric Vaccination,11.0,12.41,19,New,Monday,12.0
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,12.4,4,Follow-Up,Friday,9.7
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,8.45,8,Follow-Up,Saturday,6.9
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,15.3,16,Follow-Up,Friday,15.3
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,23.5,29.35,10,New,Saturday,24.4
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,15.45,19,Follow-Up,Thursday,16.6
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,15.44,20,Follow-Up,Friday,13.2
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,15.81,23,Follow-Up,Wednesday,12.7
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,25.34,20,New,Thursday,25.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,15.02,20,New,Friday,14.7
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,15.95,2,New,Thursday,16.2
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,19.14,21,New,Wednesday,13.6
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,16.0,17.56,2,Follow-Up,Tuesday,15.1
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.64,4,New,Friday,14.5
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,7.78,1,Follow-Up,Thursday,7.4
+DOC_102,General Medicine,Chronic,Joint/Back Pain,16.0,14.2,8,New,Wednesday,15.2
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,23.5,28.85,17,New,Wednesday,25.2
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,4.06,22,Follow-Up,Friday,5.6
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.65,2,New,Tuesday,11.1
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,10.12,4,Follow-Up,Thursday,10.5
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,15.08,15,Follow-Up,Friday,15.3
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,21.81,2,Follow-Up,Saturday,18.9
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,14.31,22,Follow-Up,Thursday,14.9
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,15.01,6,Follow-Up,Tuesday,14.6
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,10.36,8,Follow-Up,Friday,9.9
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,18.5,16.66,7,Follow-Up,Friday,16.5
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,13.5,12.03,5,Follow-Up,Tuesday,13.9
+DOC_201,Cardiology,Adult,Pediatric Vaccination,16.5,17.68,17,New,Wednesday,15.8
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,11.5,13.51,6,Follow-Up,Friday,13.4
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,12.67,20,New,Monday,11.6
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,24.59,22,Follow-Up,Friday,21.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,14.0,16,Follow-Up,Friday,15.9
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,28.82,20,Follow-Up,Thursday,26.4
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,24.81,22,Follow-Up,Friday,24.9
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,19.77,8,New,Thursday,16.3
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,13.38,16,New,Wednesday,13.0
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,16.0,13.87,11,New,Tuesday,16.9
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,14.42,8,New,Wednesday,13.1
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,11.0,12.44,12,Follow-Up,Thursday,8.9
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,23.5,30.44,13,New,Monday,25.6
+DOC_101,General Medicine,Chronic,Joint/Back Pain,13.5,15.6,7,New,Monday,14.3
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,19.16,22,Follow-Up,Monday,17.4
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,11.6,17,New,Thursday,12.4
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,8.87,22,Follow-Up,Friday,10.5
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,13.0,13.43,9,New,Monday,12.8
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,17.92,21,New,Thursday,14.7
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,11.0,9.53,1,Follow-Up,Thursday,8.5
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,17.76,11,Follow-Up,Wednesday,15.9
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,13.18,15,Follow-Up,Wednesday,13.5
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.16,22,Follow-Up,Saturday,6.6
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,14.0,15.7,7,Follow-Up,Friday,12.6
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,11.53,5,Follow-Up,Tuesday,9.9
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,25.06,7,Follow-Up,Saturday,18.4
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,18.98,3,New,Tuesday,17.7
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,21.25,11,Follow-Up,Thursday,16.1
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,17.6,10,Follow-Up,Saturday,15.7
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,7.34,7,Follow-Up,Saturday,7.1
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,12.52,10,New,Friday,10.8
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,16.78,15,New,Friday,16.2
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,18.56,3,Follow-Up,Wednesday,17.9
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,17.14,13,New,Wednesday,16.1
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,18.0,18.63,2,New,Saturday,16.6
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,7.59,8,New,Saturday,5.2
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.82,18,Follow-Up,Wednesday,11.8
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,17.61,19,Follow-Up,Monday,15.9
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,16.5,20.34,16,New,Tuesday,19.2
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,11.66,15,New,Tuesday,11.0
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,13.72,19,Follow-Up,Wednesday,12.6
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,18.18,24,Follow-Up,Thursday,18.6
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,22.48,1,Follow-Up,Wednesday,18.3
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,19.03,3,New,Tuesday,20.0
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,19.1,16,Follow-Up,Thursday,14.4
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,18.92,21,Follow-Up,Saturday,17.1
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,19.49,13,Follow-Up,Saturday,15.5
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,9.18,24,Follow-Up,Tuesday,9.5
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,13.27,21,New,Monday,12.2
+DOC_401,Orthopedics,Geriatric,Chest Pain / ECG,23.0,27.94,5,Follow-Up,Thursday,23.0
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,9.31,6,Follow-Up,Wednesday,9.1
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,14.63,1,New,Wednesday,15.3
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,12.05,13,Follow-Up,Thursday,14.1
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,15.49,16,Follow-Up,Wednesday,14.5
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,11.27,2,Follow-Up,Tuesday,8.7
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,16.5,16,New,Monday,17.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,14.74,9,New,Friday,14.2
+DOC_301,Pediatrics,Pediatric,Prescription Refill,10.0,9.56,4,New,Tuesday,10.0
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,14.15,13,Follow-Up,Tuesday,12.8
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,12.16,9,Follow-Up,Saturday,9.4
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,21.91,24,Follow-Up,Saturday,17.1
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,16.85,23,New,Friday,17.4
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,5.13,10,Follow-Up,Thursday,4.0
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,17.44,5,New,Thursday,14.8
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,6.35,23,New,Wednesday,7.2
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,21.0,24.57,16,New,Monday,21.1
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,9.0,10.79,13,Follow-Up,Friday,9.2
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,10.72,23,Follow-Up,Tuesday,10.1
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,15.19,3,New,Thursday,14.4
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,16.92,24,New,Saturday,17.8
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,15.5,19.1,4,Follow-Up,Saturday,14.7
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,15.73,7,Follow-Up,Saturday,14.2
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,17.07,17,Follow-Up,Wednesday,16.0
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,11.5,15.27,3,Follow-Up,Saturday,13.4
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,16.26,22,New,Tuesday,16.1
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,23.5,28.09,15,New,Wednesday,23.9
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,12.38,2,Follow-Up,Friday,12.1
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,23.72,8,Follow-Up,Saturday,17.3
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,18.24,21,Follow-Up,Friday,14.9
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,14.89,17,Follow-Up,Wednesday,16.6
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,18.0,19.41,9,New,Wednesday,18.4
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,7.39,4,New,Wednesday,7.7
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,20.29,1,Follow-Up,Monday,15.3
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,13.5,15.36,1,New,Wednesday,12.8
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.41,10,Follow-Up,Friday,7.0
+DOC_102,General Medicine,Chronic,Pediatric Vaccination,11.0,13.7,4,New,Tuesday,11.6
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,15.5,14.83,11,New,Tuesday,14.6
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,9.89,19,New,Tuesday,9.4
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,10.55,22,New,Friday,10.3
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,18.0,22.85,16,New,Saturday,20.3
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,19.05,3,New,Tuesday,16.5
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,20.0,23.31,19,New,Monday,19.9
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,16.0,21.93,4,Follow-Up,Monday,17.3
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,13.49,21,Follow-Up,Thursday,13.1
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,11.0,11.56,17,Follow-Up,Tuesday,9.7
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,15.17,6,New,Tuesday,12.2
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,17.08,15,Follow-Up,Monday,13.9
+DOC_201,Cardiology,Chronic,Chest Pain / ECG,23.5,24.75,1,Follow-Up,Tuesday,21.1
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,17.15,1,New,Tuesday,16.6
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,18.0,21.67,1,Follow-Up,Monday,18.2
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.71,17,Follow-Up,Friday,11.1
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,17.35,24,Follow-Up,Thursday,18.7
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,13.52,2,Follow-Up,Tuesday,12.5
+DOC_102,General Medicine,Chronic,Prescription Refill,7.0,9.34,1,Follow-Up,Saturday,6.2
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,25.11,24,Follow-Up,Saturday,23.9
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,19.82,4,New,Monday,16.0
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,19.49,17,Follow-Up,Friday,18.8
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,13.5,13.55,17,New,Saturday,13.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,31.18,5,New,Thursday,25.4
+DOC_102,General Medicine,Chronic,Prescription Refill,7.0,8.06,17,Follow-Up,Saturday,5.4
+DOC_102,General Medicine,Pediatric,Joint/Back Pain,13.5,14.92,24,Follow-Up,Monday,14.4
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,20.5,25.14,4,New,Thursday,22.1
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,16.23,22,New,Tuesday,16.3
+DOC_102,General Medicine,Pediatric,Joint/Back Pain,13.5,15.05,16,Follow-Up,Thursday,13.6
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,20.0,21.25,20,New,Wednesday,19.7
+DOC_102,General Medicine,Chronic,Chronic Diabetes Review,13.0,17.98,12,Follow-Up,Monday,17.1
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,22.5,19.48,8,New,Thursday,20.7
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,18.58,16,Follow-Up,Saturday,16.9
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,17.45,16,Follow-Up,Saturday,15.3
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,12.06,22,Follow-Up,Thursday,13.8
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,12.39,21,New,Wednesday,15.0
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,16.61,5,New,Friday,15.9
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,24.62,8,Follow-Up,Saturday,18.3
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,17.15,12,New,Tuesday,17.2
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,9.68,1,Follow-Up,Wednesday,7.3
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,16.38,4,New,Saturday,12.5
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,14.27,2,Follow-Up,Monday,12.5
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,19.87,16,New,Thursday,19.9
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,27.72,7,New,Saturday,20.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,10.25,12,Follow-Up,Friday,10.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,24.52,7,Follow-Up,Friday,21.5
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,23.5,21.05,16,New,Thursday,22.4
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.71,20,Follow-Up,Tuesday,10.5
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,12.22,15,Follow-Up,Tuesday,12.0
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,12.25,12,New,Friday,11.7
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,11.0,11.99,1,Follow-Up,Thursday,9.0
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,18.82,22,Follow-Up,Wednesday,20.8
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,21.0,22.98,16,New,Tuesday,18.9
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,11.99,2,New,Thursday,12.4
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,18.64,5,Follow-Up,Tuesday,16.6
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,23.32,10,Follow-Up,Wednesday,21.4
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,7.76,3,Follow-Up,Thursday,8.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,10.79,23,Follow-Up,Friday,10.8
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,14.15,23,Follow-Up,Friday,13.6
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,19.09,9,New,Monday,16.7
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,14.82,2,New,Saturday,11.9
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,25.95,8,Follow-Up,Monday,20.7
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,14.2,19,New,Friday,13.5
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,12.04,18,Follow-Up,Friday,9.4
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.07,9,Follow-Up,Friday,3.7
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.11,17,Follow-Up,Tuesday,10.1
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,18.5,18.23,17,Follow-Up,Tuesday,18.7
+DOC_102,General Medicine,Chronic,Chronic Diabetes Review,15.5,16.29,11,New,Wednesday,13.2
+DOC_101,General Medicine,Geriatric,Prescription Refill,6.5,7.97,4,Follow-Up,Wednesday,6.4
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,20.93,23,Follow-Up,Tuesday,18.2
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,12.79,23,Follow-Up,Tuesday,13.0
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,14.26,18,Follow-Up,Friday,13.0
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,11.95,7,Follow-Up,Thursday,12.2
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.24,13,Follow-Up,Monday,9.6
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,15.5,13.77,21,New,Wednesday,13.9
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,15.84,20,New,Friday,16.3
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,20.78,14,Follow-Up,Friday,20.5
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,14.34,1,Follow-Up,Monday,11.5
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,17.79,6,Follow-Up,Thursday,14.9
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,12.98,10,Follow-Up,Wednesday,12.7
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.81,13,Follow-Up,Saturday,4.5
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,18.5,22.46,17,New,Friday,19.1
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,8.29,10,Follow-Up,Saturday,6.6
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,16.16,7,Follow-Up,Friday,13.7
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,19.39,6,New,Thursday,19.0
+DOC_401,Orthopedics,Pediatric,Prescription Refill,10.0,11.91,17,Follow-Up,Tuesday,10.9
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,14.53,9,Follow-Up,Thursday,14.4
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,21.85,17,Follow-Up,Friday,19.4
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,11.31,22,New,Thursday,11.9
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,9.75,8,Follow-Up,Thursday,9.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,15.56,9,New,Wednesday,14.2
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,18.56,14,New,Wednesday,16.3
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,18.02,1,Follow-Up,Monday,14.2
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,14.74,4,Follow-Up,Monday,14.5
+DOC_101,General Medicine,Geriatric,Joint/Back Pain,15.5,16.23,6,New,Tuesday,16.6
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,8.55,10,Follow-Up,Saturday,7.4
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,8.86,4,Follow-Up,Tuesday,7.7
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,16.76,19,New,Friday,18.7
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,8.84,5,Follow-Up,Monday,7.1
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,18.5,20.59,13,Follow-Up,Saturday,17.4
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,6.69,2,New,Monday,4.3
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,21.0,24.71,3,New,Wednesday,19.3
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,14.27,9,Follow-Up,Friday,15.9
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,13.52,3,Follow-Up,Friday,15.1
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,16.0,18.17,10,Follow-Up,Tuesday,15.4
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,12.87,2,Follow-Up,Thursday,12.0
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,4.5,23,Follow-Up,Saturday,6.7
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,18.29,17,New,Friday,17.5
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,10.75,5,Follow-Up,Friday,10.4
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,13.48,16,Follow-Up,Monday,11.3
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,16.0,16,Follow-Up,Monday,16.7
+DOC_401,Orthopedics,Geriatric,Chest Pain / ECG,25.5,22.18,13,New,Tuesday,23.3
+DOC_102,General Medicine,Chronic,Pediatric Vaccination,11.0,13.62,2,New,Thursday,11.5
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,26.13,19,Follow-Up,Tuesday,21.0
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,32.23,6,Follow-Up,Monday,26.7
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,8.97,1,Follow-Up,Wednesday,8.5
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,14.06,20,Follow-Up,Saturday,15.8
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,13.5,14.01,2,New,Tuesday,11.9
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,15.71,21,New,Saturday,15.9
+DOC_102,General Medicine,Geriatric,Routine Fever/Cold,12.5,12.16,6,Follow-Up,Friday,11.9
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,15.86,16,Follow-Up,Monday,11.8
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,11.5,13.63,6,Follow-Up,Tuesday,8.9
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,13.32,21,Follow-Up,Saturday,12.9
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,16.38,16,Follow-Up,Monday,14.5
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,17.5,16.16,13,New,Thursday,16.5
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,20.87,21,New,Saturday,18.7
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,8.11,19,New,Tuesday,9.6
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,18.0,17.5,14,New,Wednesday,18.1
+DOC_101,General Medicine,Chronic,Prescription Refill,7.0,6.91,20,New,Tuesday,9.0
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,15.26,23,New,Tuesday,12.4
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,16.5,15.95,1,Follow-Up,Monday,15.5
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,26.05,3,New,Tuesday,21.7
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,9.2,15,Follow-Up,Saturday,10.4
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,7.23,10,Follow-Up,Friday,10.0
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,15.81,7,New,Wednesday,13.8
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,13.5,13.92,20,Follow-Up,Thursday,13.5
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,24.72,16,New,Wednesday,22.5
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,25.43,24,New,Saturday,19.9
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,18.5,21.8,20,New,Thursday,21.0
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,15.5,14.24,22,Follow-Up,Friday,13.8
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,6.15,17,Follow-Up,Saturday,8.1
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,18.0,17.28,20,Follow-Up,Wednesday,19.0
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,18.3,12,Follow-Up,Thursday,15.9
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,19.17,17,Follow-Up,Monday,18.2
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,13.5,15.37,18,Follow-Up,Friday,15.3
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,24.43,17,Follow-Up,Monday,18.9
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,13.71,6,Follow-Up,Tuesday,13.8
+DOC_102,General Medicine,Adult,Prescription Refill,9.5,10.59,23,New,Thursday,11.3
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,17.44,22,Follow-Up,Friday,15.0
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,12.11,3,New,Friday,11.4
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,16.89,14,New,Wednesday,16.5
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,21.19,9,New,Saturday,17.8
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,15.5,17.57,10,New,Friday,14.6
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,17.87,22,New,Saturday,16.9
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,11.69,6,Follow-Up,Friday,11.2
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,7.26,18,Follow-Up,Tuesday,8.7
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,17.71,18,New,Saturday,16.9
+DOC_102,General Medicine,Adult,Prescription Refill,9.5,10.78,19,New,Monday,9.2
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,13.65,18,Follow-Up,Wednesday,17.0
+DOC_201,Cardiology,Chronic,Prescription Refill,15.0,14.86,12,New,Tuesday,13.7
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,20.62,22,Follow-Up,Friday,18.9
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,11.87,16,New,Tuesday,10.6
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,8.38,17,New,Tuesday,10.0
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,17.64,14,New,Saturday,16.9
+DOC_102,General Medicine,Pediatric,Pediatric Vaccination,8.5,8.78,23,Follow-Up,Wednesday,8.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,21.55,2,Follow-Up,Friday,17.9
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,10.93,6,New,Wednesday,12.1
+DOC_102,General Medicine,Chronic,Joint/Back Pain,13.5,13.04,11,Follow-Up,Wednesday,13.9
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,12.02,18,New,Friday,12.5
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,14.0,17.31,3,Follow-Up,Saturday,14.0
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,12.36,17,New,Tuesday,9.7
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,11.66,3,Follow-Up,Friday,8.6
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,15.46,18,Follow-Up,Tuesday,16.2
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,11.91,4,Follow-Up,Thursday,12.6
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,8.0,9.33,7,Follow-Up,Thursday,8.9
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,14.01,17,New,Wednesday,13.3
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,11.79,11,New,Thursday,12.2
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,25.07,20,Follow-Up,Friday,23.0
+DOC_401,Orthopedics,Geriatric,Chest Pain / ECG,25.5,29.48,2,New,Tuesday,23.7
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,14.0,15.3,12,Follow-Up,Wednesday,12.7
+DOC_101,General Medicine,Chronic,Joint/Back Pain,11.0,10.52,22,Follow-Up,Tuesday,12.2
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,16.0,17.1,20,Follow-Up,Tuesday,16.6
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,24.54,14,Follow-Up,Monday,19.5
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,16.66,13,New,Tuesday,14.4
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,11.45,16,Follow-Up,Saturday,10.6
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.7,23,New,Tuesday,14.2
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,21.35,11,Follow-Up,Monday,14.1
+DOC_201,Cardiology,Geriatric,Chest Pain / ECG,25.5,24.91,14,Follow-Up,Saturday,24.8
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,21.02,6,Follow-Up,Wednesday,15.2
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,21.0,18.15,17,New,Tuesday,19.1
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,29.08,21,New,Monday,21.7
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,6.8,9,Follow-Up,Tuesday,5.6
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,19.88,23,Follow-Up,Monday,18.7
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,16.0,16.59,24,Follow-Up,Saturday,15.6
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,8.99,16,Follow-Up,Thursday,11.8
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,18.5,20.6,9,New,Friday,18.8
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,18.0,18.06,3,New,Friday,16.6
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,12.56,5,New,Wednesday,12.3
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,17.69,15,New,Thursday,15.4
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,19.21,8,Follow-Up,Tuesday,16.6
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,22.18,10,Follow-Up,Saturday,18.6
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,12.57,7,Follow-Up,Wednesday,13.1
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.19,20,Follow-Up,Friday,10.1
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,11.1,5,New,Wednesday,8.2
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,11.26,11,New,Monday,11.1
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,19.72,14,New,Saturday,20.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,12.91,18,New,Saturday,13.1
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,10.99,11,Follow-Up,Thursday,11.6
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,18.5,18.36,10,Follow-Up,Saturday,16.2
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,20.86,4,Follow-Up,Wednesday,15.5
+DOC_101,General Medicine,Adult,Routine Fever/Cold,10.5,11.9,7,New,Tuesday,9.9
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,24.41,10,New,Thursday,19.5
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,13.52,15,New,Thursday,13.9
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,29.68,10,New,Tuesday,26.7
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,10.68,10,New,Friday,11.6
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,21.27,21,Follow-Up,Thursday,18.5
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,7.44,5,Follow-Up,Wednesday,6.3
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,25.99,2,Follow-Up,Saturday,21.2
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,10.46,22,Follow-Up,Friday,10.7
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,14.0,14.39,1,New,Thursday,13.3
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,16.07,24,New,Monday,15.6
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,9.87,3,Follow-Up,Wednesday,6.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,16.27,17,Follow-Up,Thursday,16.6
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,18.54,21,New,Friday,18.5
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,12.8,20,Follow-Up,Monday,12.3
+DOC_301,Pediatrics,Chronic,Prescription Refill,10.0,9.57,22,New,Wednesday,11.3
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,11.86,12,New,Thursday,13.6
+DOC_201,Cardiology,Geriatric,Joint/Back Pain,23.5,29.72,11,New,Saturday,25.8
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,13.0,15.08,23,New,Wednesday,11.9
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,18.0,21.82,24,New,Thursday,17.1
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,18.77,15,New,Thursday,20.6
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,16.0,18.34,23,New,Friday,17.1
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,14.0,12.06,11,New,Friday,12.5
+DOC_201,Cardiology,Chronic,Chest Pain / ECG,23.5,26.73,8,Follow-Up,Saturday,21.0
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,14.38,16,Follow-Up,Saturday,13.0
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,18.0,24.3,16,Follow-Up,Monday,20.7
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,17.59,12,New,Thursday,17.1
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,13.0,15.09,12,Follow-Up,Saturday,12.5
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,21.1,18,New,Friday,20.3
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,13.31,12,New,Monday,14.8
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,16.43,16,Follow-Up,Friday,13.8
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,18.5,19.31,22,Follow-Up,Wednesday,19.7
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,18.5,15.97,17,New,Tuesday,20.2
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.04,17,New,Tuesday,10.6
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,11.5,13.69,18,New,Thursday,11.0
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,12.72,9,Follow-Up,Saturday,9.7
+DOC_102,General Medicine,Geriatric,Prescription Refill,11.5,11.6,12,New,Saturday,10.8
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,21.07,20,New,Tuesday,23.6
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,18.89,23,New,Saturday,18.0
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,12.81,24,Follow-Up,Tuesday,14.6
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,21.36,13,Follow-Up,Monday,16.9
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,10.29,13,Follow-Up,Saturday,9.2
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,15.13,16,New,Tuesday,14.3
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,18.0,16.97,2,New,Friday,16.5
+DOC_201,Cardiology,Chronic,Chest Pain / ECG,26.0,34.86,7,New,Monday,26.2
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,11.58,5,Follow-Up,Monday,10.2
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.62,10,Follow-Up,Tuesday,5.2
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,8.78,17,Follow-Up,Saturday,6.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,19.37,2,New,Saturday,15.2
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,19.17,23,New,Monday,16.2
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,14.54,16,Follow-Up,Saturday,12.2
+DOC_201,Cardiology,Chronic,Prescription Refill,12.5,15.65,10,Follow-Up,Saturday,12.5
+DOC_101,General Medicine,Pediatric,Prescription Refill,7.0,6.79,14,New,Friday,8.6
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,22.74,11,New,Thursday,20.0
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,13.56,2,New,Monday,12.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,7.78,5,Follow-Up,Friday,6.8
+DOC_102,General Medicine,Geriatric,Prescription Refill,11.5,13.11,8,New,Tuesday,11.3
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,16.69,12,Follow-Up,Tuesday,16.1
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,9.0,10.68,13,Follow-Up,Monday,8.1
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,17.29,11,Follow-Up,Wednesday,17.4
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,12.96,10,Follow-Up,Thursday,12.8
+DOC_102,General Medicine,Adult,Prescription Refill,9.5,10.06,2,New,Thursday,10.0
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,9.97,19,Follow-Up,Monday,10.5
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,19.87,1,New,Monday,16.2
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,18.21,16,New,Friday,17.2
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,9.03,5,New,Friday,6.3
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,10.31,10,New,Tuesday,11.7
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,13.0,12.58,10,New,Friday,13.1
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,18.48,1,Follow-Up,Monday,16.4
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,9.02,12,Follow-Up,Tuesday,10.3
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,15.07,16,New,Friday,16.0
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,20.68,15,Follow-Up,Tuesday,17.7
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,13.98,5,New,Thursday,13.7
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,19.33,15,Follow-Up,Thursday,16.7
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,9.91,23,Follow-Up,Monday,11.1
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,3.94,6,Follow-Up,Thursday,5.8
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,21.89,4,Follow-Up,Thursday,17.9
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,21.7,16,New,Thursday,17.8
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.95,1,Follow-Up,Tuesday,7.3
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,12.05,16,Follow-Up,Saturday,11.0
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,22.07,5,New,Monday,17.8
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,13.83,3,New,Tuesday,11.9
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,11.6,18,Follow-Up,Friday,10.9
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,20.95,3,Follow-Up,Monday,18.4
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,9.0,9.51,6,Follow-Up,Saturday,8.8
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,13.5,16.44,12,New,Friday,13.3
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,19.8,11,Follow-Up,Friday,15.0
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,24.74,19,New,Monday,18.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,19.12,8,Follow-Up,Saturday,14.3
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,10.5,11.93,23,New,Thursday,11.1
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,3.97,9,Follow-Up,Wednesday,3.0
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,23.45,8,New,Saturday,20.4
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,17.28,3,New,Thursday,16.8
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,8.0,9.35,2,Follow-Up,Saturday,7.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,17.38,19,New,Saturday,16.3
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,11.21,19,New,Saturday,11.7
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,11.52,15,Follow-Up,Friday,12.5
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,16.07,21,Follow-Up,Wednesday,16.1
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,17.81,12,Follow-Up,Thursday,18.2
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,16.64,17,New,Wednesday,16.5
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,13.82,13,Follow-Up,Saturday,12.1
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,9.53,13,Follow-Up,Saturday,9.5
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,10.24,12,Follow-Up,Wednesday,7.9
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,11.09,1,Follow-Up,Saturday,10.5
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,16.5,21.99,1,New,Saturday,15.7
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,14.08,22,Follow-Up,Monday,13.6
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,15.07,19,New,Monday,15.7
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,17.89,8,Follow-Up,Monday,16.6
+DOC_401,Orthopedics,Chronic,Prescription Refill,12.5,17.1,22,New,Saturday,16.8
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,20.1,11,New,Wednesday,18.3
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,24.61,23,New,Friday,24.0
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,11.24,21,New,Wednesday,11.8
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,14.76,6,Follow-Up,Monday,12.9
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,23.5,25.77,14,New,Thursday,22.6
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,10.32,9,New,Thursday,9.3
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,15.99,3,New,Saturday,13.5
+DOC_101,General Medicine,Geriatric,Prescription Refill,6.5,6.31,5,Follow-Up,Friday,4.1
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,13.0,12.46,16,New,Monday,12.5
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,22.03,8,New,Wednesday,19.5
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,12.89,10,Follow-Up,Friday,10.9
+DOC_301,Pediatrics,Pediatric,Prescription Refill,7.5,8.27,7,Follow-Up,Monday,7.1
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,11.2,22,New,Wednesday,13.8
+DOC_101,General Medicine,Chronic,Prescription Refill,4.5,4.05,1,Follow-Up,Thursday,5.3
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,20.28,8,New,Saturday,15.8
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,15.17,9,New,Tuesday,14.6
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,13.5,15.73,20,Follow-Up,Friday,15.7
+DOC_301,Pediatrics,Geriatric,Prescription Refill,12.0,14.56,23,New,Friday,13.6
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,21.58,17,Follow-Up,Saturday,17.8
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,10.5,13.59,7,Follow-Up,Saturday,12.1
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,26.5,3,New,Monday,22.2
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,19.9,21,Follow-Up,Thursday,18.7
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,23.98,20,New,Friday,20.9
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,24.07,21,Follow-Up,Monday,18.0
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,19.0,16.92,19,New,Friday,17.5
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,19.88,17,New,Tuesday,16.6
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,9.6,17,Follow-Up,Monday,8.7
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,18.8,16,Follow-Up,Friday,15.4
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,19.56,7,Follow-Up,Tuesday,17.7
+DOC_101,General Medicine,Chronic,Chronic Diabetes Review,10.5,12.26,20,Follow-Up,Wednesday,10.1
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,16.0,14.29,11,Follow-Up,Wednesday,14.5
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,6.0,6.07,13,Follow-Up,Saturday,7.2
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,16.5,14.09,11,Follow-Up,Tuesday,14.5
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,17.49,3,Follow-Up,Thursday,15.5
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,15.5,13.47,5,Follow-Up,Wednesday,12.8
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,18.5,21.89,1,New,Thursday,18.1
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,23.18,16,Follow-Up,Tuesday,20.6
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,11.53,13,Follow-Up,Saturday,10.5
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,16.66,5,Follow-Up,Tuesday,16.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.19,17,Follow-Up,Tuesday,11.0
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,11.14,1,New,Thursday,9.4
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,5.4,15,Follow-Up,Monday,5.9
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,6.39,3,New,Tuesday,6.2
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.83,14,Follow-Up,Monday,12.5
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,8.95,23,Follow-Up,Wednesday,9.9
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,19.54,22,New,Monday,17.0
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,17.27,12,Follow-Up,Wednesday,17.8
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,6.34,21,Follow-Up,Saturday,7.7
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,16.15,13,New,Monday,18.0
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,20.5,5,Follow-Up,Wednesday,16.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,14.45,1,New,Thursday,12.9
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,15.68,9,Follow-Up,Friday,15.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,24.71,20,New,Wednesday,26.3
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,16.23,23,New,Tuesday,14.0
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,31.27,15,New,Saturday,27.4
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,15.76,6,New,Tuesday,14.8
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,14.25,4,Follow-Up,Wednesday,11.0
+DOC_201,Cardiology,Chronic,Prescription Refill,12.5,12.86,4,Follow-Up,Tuesday,12.6
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,16.0,14.15,17,New,Friday,14.5
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,18.64,21,New,Thursday,21.0
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,11.37,1,Follow-Up,Tuesday,13.2
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,13.08,3,New,Wednesday,11.6
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,19.85,18,New,Saturday,16.1
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,15.24,5,New,Friday,12.2
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,16.19,3,Follow-Up,Thursday,16.4
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,21.78,17,Follow-Up,Saturday,16.1
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,16.5,18.18,7,Follow-Up,Saturday,14.3
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,13.35,13,Follow-Up,Monday,11.4
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,18.79,19,New,Monday,15.5
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,10.72,7,Follow-Up,Wednesday,8.9
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,21.0,19.64,17,New,Friday,18.5
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,21.0,22.53,6,New,Friday,19.8
+DOC_102,General Medicine,Pediatric,Joint/Back Pain,16.0,19.75,23,New,Friday,18.3
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,15.5,17.81,12,New,Tuesday,14.9
+DOC_102,General Medicine,Pediatric,Pediatric Vaccination,8.5,9.91,14,Follow-Up,Tuesday,10.6
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.29,19,Follow-Up,Friday,8.1
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,17.89,9,Follow-Up,Friday,15.8
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,14.52,10,Follow-Up,Monday,9.8
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,15.05,24,New,Tuesday,14.3
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,14.62,13,Follow-Up,Wednesday,16.2
+DOC_201,Cardiology,Pediatric,Prescription Refill,15.0,14.8,12,New,Friday,14.7
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,16.48,20,New,Thursday,14.4
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,21.16,20,Follow-Up,Wednesday,20.5
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,13.07,17,Follow-Up,Wednesday,11.2
+DOC_401,Orthopedics,Pediatric,Prescription Refill,10.0,9.73,23,Follow-Up,Monday,10.1
+DOC_102,General Medicine,Chronic,Prescription Refill,7.0,5.98,8,Follow-Up,Friday,5.4
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,14.13,9,Follow-Up,Saturday,13.7
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,14.41,16,Follow-Up,Saturday,14.6
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,25.71,3,New,Wednesday,22.5
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,7.57,7,Follow-Up,Tuesday,7.1
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,22.78,18,New,Saturday,18.9
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,13.89,2,Follow-Up,Monday,12.7
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,11.0,12.78,2,Follow-Up,Thursday,9.8
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,14.97,1,Follow-Up,Wednesday,13.6
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,19.43,5,New,Friday,18.8
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,9.59,10,Follow-Up,Tuesday,10.0
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,13.22,10,Follow-Up,Thursday,10.9
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.27,3,New,Wednesday,11.3
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,17.2,6,Follow-Up,Monday,16.8
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.54,4,New,Wednesday,11.8
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,18.69,1,New,Friday,16.9
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,16.2,15,Follow-Up,Wednesday,16.9
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.73,22,Follow-Up,Saturday,12.0
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,13.95,13,Follow-Up,Friday,13.3
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,18.5,22.63,17,New,Wednesday,19.0
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,23.0,22.8,2,New,Monday,21.6
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,23.0,20.78,5,New,Thursday,20.6
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,10.69,12,Follow-Up,Thursday,13.2
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,14.87,18,Follow-Up,Saturday,12.4
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,23.1,7,New,Thursday,19.2
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,10.5,11.4,1,Follow-Up,Saturday,8.1
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,16.0,18.37,3,New,Saturday,15.7
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,16.5,18.24,23,New,Saturday,18.0
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,12.77,1,New,Friday,13.0
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,20.06,23,New,Thursday,21.4
+DOC_401,Orthopedics,Chronic,Chest Pain / ECG,23.5,29.29,5,New,Friday,23.6
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,12.78,18,Follow-Up,Wednesday,10.8
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,14.54,11,Follow-Up,Friday,11.9
+DOC_102,General Medicine,Pediatric,Pediatric Vaccination,8.5,8.37,11,Follow-Up,Wednesday,6.6
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,13.21,22,Follow-Up,Thursday,12.2
+DOC_401,Orthopedics,Chronic,Prescription Refill,10.0,11.49,3,Follow-Up,Monday,8.3
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,24.62,22,Follow-Up,Wednesday,24.6
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,11.65,16,New,Tuesday,10.4
+DOC_101,General Medicine,Chronic,Routine Fever/Cold,10.5,11.56,24,New,Tuesday,11.1
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,6.39,17,Follow-Up,Wednesday,5.6
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,23.91,20,New,Monday,21.1
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,18.07,18,Follow-Up,Wednesday,18.2
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,7.99,3,Follow-Up,Saturday,6.2
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,18.46,23,New,Wednesday,19.4
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,23.71,23,New,Monday,22.9
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,15.71,9,Follow-Up,Monday,13.1
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,16.75,22,New,Thursday,17.3
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,20.64,1,Follow-Up,Saturday,19.2
+DOC_401,Orthopedics,Pediatric,Chronic Diabetes Review,16.0,19.37,22,Follow-Up,Tuesday,16.9
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,14.0,17.22,2,Follow-Up,Wednesday,12.6
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,11.83,7,Follow-Up,Tuesday,10.9
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,16.5,19.93,19,New,Friday,17.1
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,31.61,11,New,Wednesday,25.0
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,16.88,3,New,Friday,12.3
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,20.61,22,Follow-Up,Wednesday,19.6
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,14.86,2,Follow-Up,Tuesday,11.8
+DOC_201,Cardiology,Pediatric,Prescription Refill,12.5,15.75,18,Follow-Up,Monday,11.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,15.29,4,New,Saturday,13.2
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,14.81,6,Follow-Up,Tuesday,14.2
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,17.36,20,Follow-Up,Monday,15.0
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,22.21,11,Follow-Up,Saturday,18.1
+DOC_401,Orthopedics,Chronic,Chest Pain / ECG,23.5,28.01,24,New,Tuesday,25.5
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.44,18,Follow-Up,Tuesday,8.6
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,12.16,22,Follow-Up,Thursday,12.9
+DOC_101,General Medicine,Geriatric,Joint/Back Pain,13.0,12.91,1,Follow-Up,Thursday,12.3
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,16.5,16.96,15,New,Saturday,14.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.57,16,Follow-Up,Monday,12.1
+DOC_102,General Medicine,Geriatric,Routine Fever/Cold,12.5,15.01,22,Follow-Up,Monday,16.2
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,12.77,17,Follow-Up,Wednesday,12.5
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,10.02,10,Follow-Up,Saturday,9.9
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,15.65,11,Follow-Up,Tuesday,14.9
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,10.06,12,New,Tuesday,10.9
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,20.5,23.51,4,New,Tuesday,19.8
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,21.14,2,Follow-Up,Wednesday,19.6
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,15.5,17.07,23,Follow-Up,Tuesday,16.7
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,12.26,4,New,Tuesday,10.8
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,10.5,11.79,20,Follow-Up,Friday,11.3
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.62,10,New,Tuesday,9.5
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,9.11,24,Follow-Up,Saturday,7.4
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,11.02,20,Follow-Up,Wednesday,10.4
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,8.86,21,Follow-Up,Wednesday,11.6
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,13.0,16.18,3,New,Wednesday,13.0
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,13.92,23,New,Wednesday,13.2
+DOC_101,General Medicine,Chronic,Prescription Refill,7.0,6.9,21,New,Friday,7.6
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,6.43,10,Follow-Up,Tuesday,7.7
+DOC_102,General Medicine,Adult,Prescription Refill,9.5,10.23,24,New,Friday,9.8
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,21.43,5,New,Tuesday,18.8
+DOC_101,General Medicine,Adult,Routine Fever/Cold,8.0,8.01,12,Follow-Up,Friday,8.1
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.15,21,New,Thursday,12.3
+DOC_401,Orthopedics,Chronic,Prescription Refill,12.5,17.36,10,New,Monday,14.1
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,23.5,26.58,21,Follow-Up,Friday,24.6
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,10.83,13,Follow-Up,Tuesday,12.1
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,21.0,24.49,20,Follow-Up,Wednesday,22.5
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,7.07,8,Follow-Up,Monday,8.0
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,9.84,19,Follow-Up,Thursday,9.8
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,12.5,11.29,7,Follow-Up,Wednesday,13.1
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,16.53,9,Follow-Up,Monday,13.3
+DOC_201,Cardiology,Adult,Routine Fever/Cold,16.0,19.38,12,Follow-Up,Friday,15.8
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,15.81,4,Follow-Up,Tuesday,16.4
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,24.22,18,Follow-Up,Tuesday,20.4
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,14.42,1,New,Thursday,13.0
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,19.11,13,Follow-Up,Tuesday,15.3
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,12.23,12,Follow-Up,Wednesday,13.6
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,13.75,21,Follow-Up,Thursday,10.4
+DOC_401,Orthopedics,Geriatric,Chest Pain / ECG,23.0,28.21,4,Follow-Up,Friday,19.3
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,16.23,21,New,Tuesday,13.5
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,11.0,10.71,16,Follow-Up,Saturday,11.3
+DOC_301,Pediatrics,Geriatric,Pediatric Vaccination,13.5,14.33,6,New,Friday,14.3
+DOC_101,General Medicine,Geriatric,Prescription Refill,9.0,10.65,5,New,Saturday,8.7
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,16.0,18.01,20,New,Friday,18.6
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,7.69,10,Follow-Up,Tuesday,6.4
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,23.5,22.4,17,Follow-Up,Thursday,22.1
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,18.5,18.36,12,New,Monday,16.6
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,17.37,4,Follow-Up,Wednesday,15.4
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,25.46,23,Follow-Up,Tuesday,21.0
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,21.0,22.25,6,New,Thursday,22.1
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,10.85,20,Follow-Up,Thursday,9.2
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,15.77,15,Follow-Up,Thursday,14.6
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,7.67,16,Follow-Up,Friday,9.1
+DOC_101,General Medicine,Chronic,Joint/Back Pain,13.5,11.59,4,New,Wednesday,10.2
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,21.88,9,Follow-Up,Friday,20.3
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,13.0,15.71,7,New,Tuesday,11.4
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,23.27,3,Follow-Up,Monday,18.8
+DOC_401,Orthopedics,Chronic,Prescription Refill,10.0,10.65,21,Follow-Up,Saturday,9.9
+DOC_201,Cardiology,Pediatric,Pediatric Vaccination,16.5,17.79,12,New,Monday,14.8
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,18.0,16.42,21,Follow-Up,Tuesday,17.1
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,20.31,13,New,Thursday,21.5
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,16.33,8,New,Friday,13.1
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,14.0,14.29,4,New,Tuesday,13.2
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,11.43,17,Follow-Up,Friday,12.4
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,11.5,11.24,7,Follow-Up,Tuesday,10.7
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,16.84,5,Follow-Up,Friday,16.3
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,7.73,21,Follow-Up,Friday,10.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,14.02,21,New,Thursday,14.4
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,19.96,24,Follow-Up,Saturday,18.1
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,18.5,18.37,13,New,Friday,14.7
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.17,4,Follow-Up,Tuesday,9.9
+DOC_101,General Medicine,Geriatric,Joint/Back Pain,13.0,13.59,10,Follow-Up,Friday,13.2
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,10.3,22,Follow-Up,Monday,10.1
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,10.64,5,New,Thursday,9.1
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,13.48,17,New,Thursday,12.8
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,6.07,6,Follow-Up,Wednesday,5.3
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,15.07,9,Follow-Up,Monday,15.4
+DOC_102,General Medicine,Chronic,Prescription Refill,7.0,7.32,9,Follow-Up,Wednesday,7.1
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,16.98,19,Follow-Up,Tuesday,17.4
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,19.42,7,Follow-Up,Friday,16.2
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,8.22,14,Follow-Up,Friday,8.6
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,17.1,5,Follow-Up,Friday,15.3
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,13.06,12,New,Monday,10.1
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,14.09,13,New,Tuesday,13.4
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,17.28,8,Follow-Up,Wednesday,14.3
+DOC_201,Cardiology,Chronic,Routine Fever/Cold,16.0,13.98,3,Follow-Up,Tuesday,14.0
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,5.98,23,Follow-Up,Friday,7.2
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,12.0,22,Follow-Up,Saturday,12.6
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,10.5,8.98,2,Follow-Up,Thursday,12.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,25.14,9,Follow-Up,Monday,20.5
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,11.0,12.32,15,Follow-Up,Wednesday,12.3
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,13.07,10,Follow-Up,Wednesday,10.0
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,12.02,4,Follow-Up,Monday,9.6
+DOC_101,General Medicine,Chronic,Joint/Back Pain,11.0,11.53,17,Follow-Up,Monday,12.3
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,21.15,8,New,Tuesday,19.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,12.53,15,New,Friday,11.9
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,15.5,13.82,4,Follow-Up,Thursday,12.2
+DOC_101,General Medicine,Adult,Pediatric Vaccination,8.5,8.53,4,New,Wednesday,8.5
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,9.62,20,Follow-Up,Thursday,11.4
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,13.08,7,New,Friday,12.7
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,16.0,15.08,5,New,Tuesday,13.7
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,18.0,18.56,19,New,Friday,19.3
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,29.04,5,New,Tuesday,26.3
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,10.04,1,Follow-Up,Tuesday,9.8
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,20.24,22,Follow-Up,Tuesday,18.4
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,16.0,16.17,7,New,Friday,16.4
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,20.6,20,Follow-Up,Thursday,20.5
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,22.83,6,New,Saturday,17.8
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,28.75,21,New,Monday,28.0
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,17.53,21,Follow-Up,Saturday,16.9
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,15.85,2,New,Monday,15.1
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,20.5,24.08,22,New,Monday,21.6
+DOC_101,General Medicine,Geriatric,Joint/Back Pain,13.0,14.21,19,Follow-Up,Friday,13.5
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,25.9,11,Follow-Up,Saturday,20.1
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,24.43,13,New,Wednesday,22.5
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,18.0,22.06,10,Follow-Up,Friday,18.7
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,13.91,6,Follow-Up,Saturday,10.6
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,9.8,7,Follow-Up,Thursday,8.6
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,8.51,2,New,Thursday,7.8
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,16.82,9,Follow-Up,Thursday,17.7
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,17.73,17,Follow-Up,Saturday,15.6
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,15.76,16,New,Friday,16.5
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,23.7,11,New,Saturday,20.0
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,18.0,23.23,2,Follow-Up,Monday,17.6
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,10.76,23,New,Friday,9.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,11.62,4,Follow-Up,Friday,12.3
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,14.28,15,Follow-Up,Thursday,13.3
+DOC_101,General Medicine,Geriatric,Prescription Refill,6.5,6.38,22,Follow-Up,Saturday,7.5
+DOC_101,General Medicine,Geriatric,Prescription Refill,9.0,8.26,20,New,Friday,10.7
+DOC_401,Orthopedics,Pediatric,Joint/Back Pain,19.0,23.51,24,New,Monday,22.2
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,26.11,19,Follow-Up,Saturday,21.5
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,13.77,16,Follow-Up,Thursday,16.1
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,10.83,5,New,Thursday,12.1
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.48,5,Follow-Up,Monday,5.9
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,4.49,6,Follow-Up,Saturday,3.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,23.13,2,New,Tuesday,21.1
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,21.87,19,Follow-Up,Saturday,20.4
+DOC_101,General Medicine,Geriatric,Joint/Back Pain,15.5,17.74,8,New,Saturday,14.9
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,16.31,21,Follow-Up,Saturday,14.8
+DOC_102,General Medicine,Adult,Pediatric Vaccination,11.0,13.31,8,New,Saturday,12.1
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.73,23,Follow-Up,Saturday,13.1
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,17.14,2,New,Monday,16.0
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,16.95,16,Follow-Up,Tuesday,17.2
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,11.0,5,Follow-Up,Friday,10.8
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,12.03,18,Follow-Up,Thursday,14.2
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,16.5,21.41,4,Follow-Up,Saturday,17.2
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,12.26,24,New,Tuesday,13.0
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,13.23,16,Follow-Up,Wednesday,14.1
+DOC_301,Pediatrics,Chronic,Joint/Back Pain,16.5,19.83,17,New,Friday,18.1
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,18.0,20.27,5,New,Thursday,19.3
+DOC_301,Pediatrics,Adult,Joint/Back Pain,14.0,13.71,23,Follow-Up,Tuesday,17.2
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,12.58,21,Follow-Up,Tuesday,11.7
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,19.75,2,Follow-Up,Friday,17.0
+DOC_102,General Medicine,Geriatric,Joint/Back Pain,18.0,16.82,10,New,Wednesday,20.3
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,23.98,18,Follow-Up,Saturday,18.1
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,15.66,13,Follow-Up,Monday,13.7
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,17.2,20,New,Friday,18.6
+DOC_401,Orthopedics,Adult,Prescription Refill,12.5,12.91,22,New,Monday,12.4
+DOC_102,General Medicine,Pediatric,Pediatric Vaccination,11.0,15.32,13,New,Monday,12.3
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,10.88,24,Follow-Up,Wednesday,12.5
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,16.2,14,Follow-Up,Thursday,11.2
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,18.2,22,Follow-Up,Thursday,16.8
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,7.82,16,Follow-Up,Wednesday,6.5
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,14.46,13,Follow-Up,Monday,13.2
+DOC_201,Cardiology,Chronic,Joint/Back Pain,19.0,17.06,9,Follow-Up,Thursday,17.4
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,18.23,11,New,Thursday,17.0
+DOC_201,Cardiology,Geriatric,Routine Fever/Cold,18.0,20.37,15,Follow-Up,Wednesday,19.3
+DOC_301,Pediatrics,Adult,Chest Pain / ECG,21.0,23.77,8,New,Monday,20.5
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,14.68,6,New,Thursday,13.9
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,14.0,15.19,19,New,Monday,14.9
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,16.94,8,New,Tuesday,14.0
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,21.0,29.37,15,New,Monday,24.9
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,21.0,27.95,16,Follow-Up,Monday,23.5
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,14.52,14,Follow-Up,Friday,15.7
+DOC_101,General Medicine,Pediatric,Chronic Diabetes Review,10.5,12.29,6,Follow-Up,Friday,10.5
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,29.71,2,New,Tuesday,22.8
+DOC_101,General Medicine,Adult,Joint/Back Pain,13.5,16.21,11,New,Saturday,14.2
+DOC_201,Cardiology,Geriatric,Prescription Refill,14.5,13.54,20,Follow-Up,Friday,15.3
+DOC_102,General Medicine,Chronic,Pediatric Vaccination,11.0,14.19,16,New,Monday,11.6
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,20.5,5,New,Friday,16.1
+DOC_301,Pediatrics,Chronic,Routine Fever/Cold,11.0,12.4,4,Follow-Up,Wednesday,10.6
+DOC_201,Cardiology,Adult,Pediatric Vaccination,14.0,15.81,21,Follow-Up,Monday,16.1
+DOC_201,Cardiology,Adult,Routine Fever/Cold,18.5,24.14,21,New,Monday,19.9
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,13.0,16.51,6,New,Monday,13.8
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,11.0,14.37,21,Follow-Up,Saturday,14.4
+DOC_102,General Medicine,Adult,Chest Pain / ECG,18.0,20.31,12,Follow-Up,Tuesday,18.5
+DOC_201,Cardiology,Chronic,Joint/Back Pain,21.5,23.25,9,New,Wednesday,21.4
+DOC_301,Pediatrics,Chronic,Pediatric Vaccination,9.0,7.9,7,Follow-Up,Tuesday,5.6
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,11.47,7,Follow-Up,Saturday,11.2
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,16.0,15.32,10,Follow-Up,Monday,14.7
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,17.34,22,Follow-Up,Thursday,15.8
+DOC_401,Orthopedics,Chronic,Chest Pain / ECG,21.0,27.84,6,Follow-Up,Saturday,22.1
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,18.59,13,Follow-Up,Monday,14.1
+DOC_301,Pediatrics,Pediatric,Joint/Back Pain,14.0,13.88,7,Follow-Up,Tuesday,14.2
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,8.85,5,New,Saturday,7.1
+DOC_102,General Medicine,Geriatric,Chronic Diabetes Review,15.0,16.13,9,Follow-Up,Thursday,14.3
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,15.5,22,Follow-Up,Saturday,13.9
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,25.8,18,New,Monday,21.5
+DOC_401,Orthopedics,Adult,Joint/Back Pain,16.5,20.33,17,Follow-Up,Thursday,14.9
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,20.5,22.29,6,New,Thursday,19.8
+DOC_401,Orthopedics,Chronic,Pediatric Vaccination,14.0,15.76,13,New,Tuesday,13.1
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.87,14,New,Monday,11.3
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,17.51,13,New,Friday,17.0
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,19.07,18,New,Friday,19.2
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,13.09,18,Follow-Up,Saturday,12.7
+DOC_201,Cardiology,Pediatric,Routine Fever/Cold,16.0,16.97,11,Follow-Up,Monday,15.8
+DOC_401,Orthopedics,Geriatric,Prescription Refill,14.5,15.17,10,New,Thursday,13.0
+DOC_401,Orthopedics,Chronic,Joint/Back Pain,19.0,18.75,2,New,Monday,15.5
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,11.5,14.06,19,New,Monday,14.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,19.65,12,New,Thursday,21.6
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,12.0,8,Follow-Up,Thursday,11.1
+DOC_102,General Medicine,Pediatric,Routine Fever/Cold,13.0,13.98,10,New,Monday,14.4
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,21.66,8,Follow-Up,Thursday,20.2
+DOC_201,Cardiology,Adult,Prescription Refill,12.5,13.07,8,Follow-Up,Thursday,10.6
+DOC_102,General Medicine,Chronic,Routine Fever/Cold,13.0,12.88,16,New,Thursday,12.0
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,15.76,3,New,Saturday,14.9
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,13.93,22,Follow-Up,Wednesday,14.9
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,13.0,23,New,Friday,15.0
+DOC_102,General Medicine,Adult,Routine Fever/Cold,13.0,11.15,12,New,Friday,11.3
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,7.33,4,Follow-Up,Tuesday,7.3
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,6.24,23,Follow-Up,Friday,8.3
+DOC_101,General Medicine,Chronic,Joint/Back Pain,11.0,13.39,16,Follow-Up,Wednesday,12.2
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,11.19,17,Follow-Up,Saturday,10.3
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,18.14,3,Follow-Up,Tuesday,14.7
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,14.8,8,Follow-Up,Monday,12.9
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,12.22,21,Follow-Up,Friday,11.1
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,11.29,24,Follow-Up,Friday,13.0
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,20.69,24,New,Monday,20.2
+DOC_102,General Medicine,Adult,Pediatric Vaccination,8.5,9.83,19,Follow-Up,Saturday,8.6
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,14.05,7,Follow-Up,Thursday,14.8
+DOC_401,Orthopedics,Adult,Prescription Refill,10.0,12.35,13,Follow-Up,Thursday,8.0
+DOC_201,Cardiology,Adult,Prescription Refill,15.0,14.66,13,New,Wednesday,13.2
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,14.0,14.88,19,New,Thursday,15.1
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,11.5,15.92,22,Follow-Up,Saturday,14.4
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,11.0,11.55,18,Follow-Up,Saturday,10.4
+DOC_102,General Medicine,Pediatric,Chest Pain / ECG,20.5,18.03,4,New,Wednesday,20.1
+DOC_101,General Medicine,Geriatric,Chronic Diabetes Review,15.0,17.42,18,New,Tuesday,14.9
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,8.6,4,Follow-Up,Thursday,7.9
+DOC_201,Cardiology,Geriatric,Chronic Diabetes Review,20.5,23.38,18,Follow-Up,Wednesday,23.7
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,20.08,21,New,Thursday,20.5
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,18.96,9,New,Friday,15.0
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,17.52,19,New,Thursday,17.5
+DOC_101,General Medicine,Adult,Prescription Refill,4.5,5.75,23,Follow-Up,Monday,7.8
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,18.5,21.39,8,Follow-Up,Wednesday,19.3
+DOC_201,Cardiology,Adult,Chest Pain / ECG,23.5,24.34,7,Follow-Up,Wednesday,22.2
+DOC_401,Orthopedics,Adult,Joint/Back Pain,19.0,21.44,9,New,Thursday,18.7
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,12.62,21,Follow-Up,Thursday,13.0
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,15.11,20,New,Monday,13.8
+DOC_101,General Medicine,Chronic,Chest Pain / ECG,15.5,18.04,1,Follow-Up,Thursday,14.5
+DOC_101,General Medicine,Pediatric,Routine Fever/Cold,10.5,13.07,13,New,Tuesday,11.1
+DOC_201,Cardiology,Adult,Chronic Diabetes Review,21.0,25.22,10,New,Wednesday,19.0
+DOC_401,Orthopedics,Geriatric,Chronic Diabetes Review,18.0,21.65,20,Follow-Up,Wednesday,19.1
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,7.64,1,Follow-Up,Thursday,7.1
+DOC_101,General Medicine,Geriatric,Pediatric Vaccination,8.0,10.57,20,Follow-Up,Saturday,9.1
+DOC_301,Pediatrics,Geriatric,Chest Pain / ECG,20.5,17.78,18,Follow-Up,Wednesday,19.0
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,13.5,13.29,8,Follow-Up,Tuesday,13.8
+DOC_401,Orthopedics,Geriatric,Prescription Refill,12.0,16.68,20,Follow-Up,Saturday,15.0
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,26.67,18,New,Wednesday,25.3
+DOC_102,General Medicine,Adult,Prescription Refill,7.0,8.01,1,Follow-Up,Wednesday,8.2
+DOC_401,Orthopedics,Adult,Pediatric Vaccination,11.5,10.6,20,Follow-Up,Tuesday,12.0
+DOC_401,Orthopedics,Adult,Routine Fever/Cold,13.5,15.76,16,Follow-Up,Tuesday,14.3
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,20.0,23.28,15,Follow-Up,Monday,20.9
+DOC_301,Pediatrics,Pediatric,Prescription Refill,10.0,11.02,22,New,Wednesday,8.9
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,5.73,2,Follow-Up,Tuesday,6.8
+DOC_301,Pediatrics,Adult,Pediatric Vaccination,9.0,7.72,21,Follow-Up,Friday,12.0
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,24.7,9,Follow-Up,Monday,20.2
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,11.7,23,Follow-Up,Tuesday,12.7
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,20.73,24,Follow-Up,Thursday,18.2
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,24.11,18,New,Tuesday,25.3
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,15.56,10,Follow-Up,Wednesday,13.8
+DOC_401,Orthopedics,Geriatric,Pediatric Vaccination,13.5,18.04,6,Follow-Up,Monday,15.0
+DOC_102,General Medicine,Geriatric,Chest Pain / ECG,22.5,26.61,11,New,Tuesday,24.4
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,11.08,21,Follow-Up,Tuesday,10.5
+DOC_301,Pediatrics,Geriatric,Chronic Diabetes Review,15.5,16.64,22,Follow-Up,Wednesday,16.5
+DOC_101,General Medicine,Pediatric,Prescription Refill,4.5,4.05,6,Follow-Up,Friday,4.2
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,13.5,11.65,14,Follow-Up,Wednesday,13.3
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,12.56,22,Follow-Up,Wednesday,12.0
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,18.5,22.87,21,Follow-Up,Friday,20.5
+DOC_102,General Medicine,Adult,Joint/Back Pain,16.0,19.44,16,New,Tuesday,17.2
+DOC_101,General Medicine,Pediatric,Pediatric Vaccination,6.0,7.4,1,Follow-Up,Friday,6.9
+DOC_201,Cardiology,Chronic,Prescription Refill,12.5,13.22,8,Follow-Up,Friday,13.2
+DOC_201,Cardiology,Pediatric,Chest Pain / ECG,26.0,32.35,19,New,Thursday,25.4
+DOC_401,Orthopedics,Pediatric,Chest Pain / ECG,21.0,19.0,24,Follow-Up,Thursday,18.8
+DOC_102,General Medicine,Chronic,Chest Pain / ECG,20.5,22.21,23,New,Thursday,20.2
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,29.83,13,New,Thursday,25.5
+DOC_201,Cardiology,Adult,Joint/Back Pain,19.0,23.59,15,Follow-Up,Wednesday,19.1
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,16.56,22,Follow-Up,Saturday,14.2
+DOC_201,Cardiology,Adult,Joint/Back Pain,21.5,26.69,9,New,Thursday,23.9
+DOC_301,Pediatrics,Adult,Routine Fever/Cold,13.5,14.48,17,New,Monday,16.7
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,17.1,15,Follow-Up,Saturday,16.8
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,12.5,12.1,13,New,Monday,12.1
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,12.09,21,Follow-Up,Wednesday,14.0
+DOC_201,Cardiology,Chronic,Chronic Diabetes Review,18.5,21.92,24,Follow-Up,Friday,18.1
+DOC_101,General Medicine,Adult,Prescription Refill,7.0,7.77,24,New,Thursday,8.1
+DOC_102,General Medicine,Adult,Chest Pain / ECG,20.5,23.82,20,New,Friday,21.3
+DOC_101,General Medicine,Geriatric,Chest Pain / ECG,17.5,18.34,6,Follow-Up,Friday,18.3
+DOC_301,Pediatrics,Adult,Joint/Back Pain,16.5,14.89,17,New,Wednesday,17.3
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,14.73,20,Follow-Up,Monday,13.7
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,13.72,9,Follow-Up,Wednesday,11.8
+DOC_401,Orthopedics,Pediatric,Routine Fever/Cold,13.5,15.55,8,Follow-Up,Saturday,12.8
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,15.47,3,Follow-Up,Thursday,12.7
+DOC_101,General Medicine,Adult,Chest Pain / ECG,18.0,21.7,18,New,Thursday,19.0
+DOC_401,Orthopedics,Chronic,Chest Pain / ECG,21.0,19.91,19,Follow-Up,Wednesday,20.9
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,18.5,16.96,16,Follow-Up,Wednesday,19.3
+DOC_401,Orthopedics,Pediatric,Prescription Refill,12.5,15.51,13,New,Tuesday,13.4
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,13.5,12.76,3,New,Tuesday,14.4
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,16.0,17.9,9,Follow-Up,Tuesday,14.1
+DOC_301,Pediatrics,Pediatric,Chest Pain / ECG,18.5,21.64,3,Follow-Up,Wednesday,20.1
+DOC_401,Orthopedics,Adult,Chest Pain / ECG,23.5,28.12,7,New,Monday,23.2
+DOC_301,Pediatrics,Geriatric,Prescription Refill,9.5,11.07,10,Follow-Up,Thursday,8.1
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,15.5,15.04,24,Follow-Up,Monday,16.5
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,11.49,23,Follow-Up,Wednesday,12.8
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,6.64,6,Follow-Up,Wednesday,6.7
+DOC_301,Pediatrics,Pediatric,Pediatric Vaccination,9.0,10.97,9,Follow-Up,Friday,8.9
+DOC_102,General Medicine,Pediatric,Prescription Refill,7.0,8.01,22,Follow-Up,Monday,6.3
+DOC_101,General Medicine,Geriatric,Prescription Refill,9.0,10.29,8,New,Monday,7.7
+DOC_301,Pediatrics,Pediatric,Chronic Diabetes Review,16.0,17.5,11,New,Saturday,15.6
+DOC_201,Cardiology,Geriatric,Prescription Refill,17.0,22.62,6,New,Saturday,20.2
+DOC_201,Cardiology,Geriatric,Pediatric Vaccination,18.5,21.0,2,New,Tuesday,15.7
+DOC_101,General Medicine,Chronic,Prescription Refill,7.0,7.29,24,New,Wednesday,7.5
+DOC_301,Pediatrics,Adult,Prescription Refill,10.0,10.65,21,New,Saturday,10.2
+DOC_102,General Medicine,Geriatric,Prescription Refill,9.0,10.21,18,Follow-Up,Friday,9.1
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,15.82,15,Follow-Up,Thursday,13.0
+DOC_102,General Medicine,Pediatric,Chronic Diabetes Review,13.0,13.31,17,Follow-Up,Thursday,11.3
+DOC_102,General Medicine,Adult,Routine Fever/Cold,10.5,11.34,23,Follow-Up,Monday,11.4
+DOC_101,General Medicine,Adult,Chronic Diabetes Review,10.5,12.98,6,Follow-Up,Saturday,12.7
+DOC_201,Cardiology,Chronic,Prescription Refill,15.0,19.78,10,New,Saturday,17.5
+DOC_301,Pediatrics,Adult,Prescription Refill,7.5,8.15,3,Follow-Up,Thursday,5.2
+DOC_201,Cardiology,Adult,Chest Pain / ECG,26.0,22.62,12,New,Wednesday,23.7
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,5.84,21,Follow-Up,Friday,8.1
+DOC_301,Pediatrics,Chronic,Chest Pain / ECG,18.5,19.21,18,Follow-Up,Friday,17.1
+DOC_101,General Medicine,Chronic,Prescription Refill,7.0,8.67,17,New,Wednesday,6.2
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,15.5,18.66,15,New,Monday,15.2
+DOC_401,Orthopedics,Geriatric,Routine Fever/Cold,18.0,16.65,6,New,Thursday,15.5
+DOC_201,Cardiology,Pediatric,Chronic Diabetes Review,21.0,23.25,6,New,Saturday,21.0
+DOC_301,Pediatrics,Geriatric,Joint/Back Pain,16.0,18.61,14,Follow-Up,Monday,17.0
+DOC_102,General Medicine,Geriatric,Pediatric Vaccination,10.5,10.37,4,Follow-Up,Wednesday,11.0
+DOC_102,General Medicine,Adult,Chronic Diabetes Review,13.0,15.96,24,Follow-Up,Wednesday,15.6
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,13.32,7,Follow-Up,Friday,11.1
+DOC_401,Orthopedics,Adult,Chronic Diabetes Review,18.5,21.43,13,New,Monday,20.3
+DOC_401,Orthopedics,Chronic,Chronic Diabetes Review,16.0,15.61,7,Follow-Up,Monday,17.2
+DOC_101,General Medicine,Adult,Pediatric Vaccination,6.0,5.88,17,Follow-Up,Tuesday,5.5
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,20.24,19,Follow-Up,Monday,18.1
+DOC_101,General Medicine,Geriatric,Routine Fever/Cold,10.0,10.63,10,Follow-Up,Thursday,9.8
+DOC_102,General Medicine,Adult,Joint/Back Pain,13.5,14.78,3,Follow-Up,Friday,13.0
+DOC_401,Orthopedics,Pediatric,Pediatric Vaccination,11.5,10.08,19,Follow-Up,Thursday,9.9
+DOC_101,General Medicine,Adult,Joint/Back Pain,11.0,13.23,9,Follow-Up,Friday,10.7
+DOC_101,General Medicine,Pediatric,Chest Pain / ECG,15.5,16.99,1,Follow-Up,Monday,14.8
+DOC_101,General Medicine,Pediatric,Joint/Back Pain,13.5,14.71,8,New,Thursday,13.4
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,18.46,21,Follow-Up,Saturday,18.4
+DOC_301,Pediatrics,Geriatric,Routine Fever/Cold,15.5,17.05,21,New,Saturday,16.3
+DOC_401,Orthopedics,Geriatric,Joint/Back Pain,18.5,21.4,17,Follow-Up,Thursday,18.0
+DOC_101,General Medicine,Adult,Chest Pain / ECG,15.5,15.86,19,Follow-Up,Saturday,13.2
+DOC_201,Cardiology,Pediatric,Joint/Back Pain,19.0,22.67,14,Follow-Up,Wednesday,17.9
+DOC_301,Pediatrics,Pediatric,Routine Fever/Cold,13.5,14.29,6,New,Wednesday,12.9
+DOC_401,Orthopedics,Chronic,Routine Fever/Cold,16.0,14.83,6,New,Wednesday,14.6
+DOC_301,Pediatrics,Chronic,Chronic Diabetes Review,13.5,16.1,14,Follow-Up,Thursday,13.1
+DOC_301,Pediatrics,Chronic,Prescription Refill,10.0,10.41,13,New,Thursday,9.5
+DOC_301,Pediatrics,Adult,Chronic Diabetes Review,16.0,19.27,6,New,Saturday,18.1
+DOC_101,General Medicine,Chronic,Pediatric Vaccination,8.5,10.68,20,New,Saturday,11.4
